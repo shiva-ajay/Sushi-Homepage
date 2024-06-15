@@ -1,6 +1,6 @@
 # Sushi Restaurant Website
 
-This repository contains a Sushi Restaurant website created with HTML, CSS, and JavaScript. It features excellent animations, a superb user interface (UI), and is fully responsive.
+This repository contains a Sushi Restaurant website created with HTML, CSS, and JavaScript. It features excellent animations, a superb user interface (UI) and is fully responsive.
 
 ## Features
 
